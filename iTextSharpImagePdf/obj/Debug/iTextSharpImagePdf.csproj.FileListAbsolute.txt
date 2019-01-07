@@ -1,0 +1,10 @@
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\bin\Debug\iTextSharpImagePdf.exe.config
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\bin\Debug\iTextSharpImagePdf.exe
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\bin\Debug\iTextSharpImagePdf.pdb
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\bin\Debug\itextsharp.dll
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\bin\Debug\itextsharp.xml
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\obj\Debug\iTextSharpImagePdf.csprojAssemblyReference.cache
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\obj\Debug\iTextSharpImagePdf.csproj.CoreCompileInputs.cache
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\obj\Debug\iTextSharpImagePdf.csproj.CopyComplete
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\obj\Debug\iTextSharpImagePdf.exe
+C:\Users\renanfdc\Desktop\iTextSharpImagePdf\obj\Debug\iTextSharpImagePdf.pdb
